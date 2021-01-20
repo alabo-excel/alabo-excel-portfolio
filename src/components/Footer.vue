@@ -1,10 +1,10 @@
 <template>
     <div>
         <div class="row mt-2">
-            <div class="col-5 pt-3 pl-lg-5">
+            <div class="col-4 pt-3 pl-lg-5">
                 <p>ALABO EXCEL</p>
             </div>
-            <div class="col-7 p-3 text-right pr-lg-5">
+            <div class="col-8 p-3 text-right pr-lg-5">
                <a href="https://twitter.com/alaboExcel">
               <i class="bi bi-twitter"></i>              
               </a>
