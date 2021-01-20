@@ -92,6 +92,7 @@ a {
 @media (max-width: 600px) {
   .card img {
     width: 35%;
+    max-height: 100%;
   }
 }
 </style>

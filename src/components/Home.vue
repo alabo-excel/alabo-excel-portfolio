@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
-    <div class="row pt-5 ">
-      <div class="container mt-5">
+    <div class="row pt-lg-5 ">
+      <div class="container mt-lg-5">
         <div class="d-flex mt-5 pt-5 justify-content-center">
           <div id="text" class="pt-5 mt-5" data-aos="fade-up-right">
             <h1>Alabo <span>Excel</span></h1>
