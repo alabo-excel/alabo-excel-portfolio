@@ -19,7 +19,7 @@
             More about me <i class="bi bi-arrow-right-circle-fill"></i>
           </button>
         </div>
-        <a href="data:../assets/alabo-excel-resume.pdf" download="alaboexcelresume.pdf">
+        <a href="">
           <div class="m-5" data-aos="flip-right">
             <button id="btn">Download Resume</button>
           </div>
