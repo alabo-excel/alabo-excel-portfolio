@@ -32,6 +32,8 @@ export default {
   overflow-x: hidden;
   color: black;
   font-family: flamenco;
+  font-weight: 600;
+  line-height: 2rem;
 }
 #about {
   margin-top: 150px;

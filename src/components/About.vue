@@ -15,13 +15,15 @@
           </p>
         </div>
         <div data-aos="zoom-in-left"  class="m-5">
+          <a href="https://github.com/alabo-excel">
           <button>
             More about me <i class="bi bi-arrow-right-circle-fill"></i>
           </button>
+          </a>
         </div>
-        <a href="">
+        <a href="https://drive.google.com/file/d/18XY47y0GL-8xq4wok1U_kqnldwUgl9U4/view?usp=sharing">
           <div class="m-5" data-aos="flip-right">
-            <button id="btn">Download Resume</button>
+            <button id="btn">View Resume</button>
           </div>
         </a>
       </div>
